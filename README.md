@@ -1,3 +1,3 @@
 # Projektowanie-Efektywnych-Algorytmow
-Brute Force - Python
+Brute Force - Python_
 B&B, Genetic Algorithm - C++
