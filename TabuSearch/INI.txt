@@ -1,2 +1,0 @@
-tsp_17.txt 5
-kro124p.atsp 2
